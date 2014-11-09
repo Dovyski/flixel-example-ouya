@@ -1,0 +1,4 @@
+/bin/*.swf
+/dist/*.apk
+/obj/*.old
+/obj/*.xml

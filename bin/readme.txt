@@ -1,0 +1,1 @@
+This is the folder where FlashDevelop will output the compiled SWF file.

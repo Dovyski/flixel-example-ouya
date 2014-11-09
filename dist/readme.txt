@@ -1,0 +1,1 @@
+This is the folder where FlashDevelop will output the APK file created using the compiled SWF.
